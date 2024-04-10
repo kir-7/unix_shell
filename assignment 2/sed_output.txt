@@ -1,0 +1,52 @@
+unix is great os. unix is opensource. unix is free os.
+learn operating system.
+
+unix linux which one you choose.
+
+unix is easy to learn.unix is a multiuser os.Learn unix .unix is a powerful.
+
+linux is great os. linux is opensource. linux is free os.
+learn operating system.
+
+linux linux which one you choose.
+
+linux is easy to learn.linux is a multiuser os.Learn linux .linux is a powerful.
+delete first line in students:
+
+Bowen Higgins CS
+Leighton Kramer EE
+Kylan Gentry CIV
+Amelie Griffith MECH
+Franklin Sierra MME
+Marceline Avila BIO
+Jaylen Blackwell CHEM
+
+delete last line in students:
+
+Saige Fuentes CS
+Bowen Higgins CS
+Leighton Kramer EE
+Kylan Gentry CIV
+Amelie Griffith MECH
+Franklin Sierra MME
+Marceline Avila BIO
+
+delete line 1-4 in students:
+
+Amelie Griffith MECH
+Franklin Sierra MME
+Marceline Avila BIO
+Jaylen Blackwell CHEM
+
+delete line containing unix in trail.txt:
+
+learn operating system.
+
+
+
+delete blank lines in trail:
+
+unix is great os. unix is opensource. unix is free os.
+learn operating system.
+unix linux which one you choose.
+unix is easy to learn.unix is a multiuser os.Learn unix .unix is a powerful.
